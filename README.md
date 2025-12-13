@@ -75,5 +75,5 @@ Incluye representación visual para:
 ---
 
 ## 🔗 Enlace CodeSandbox
-[Ir a CodeSandbox](https://codesandbox.io/p/github/ZuliiHdez/Mapa-7Palmas-LasTorres/draft/gifted-mccarthy)
+[Ir a CodeSandbox](https://codesandbox.io/p/sandbox/ig2526-s8-forked-tk5grt)
 
